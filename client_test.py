@@ -19,6 +19,10 @@ class ClientTest(unittest.TestCase):
 
   """ ------------ Add more unit tests ------------ """
 
+# Test cases
+# print(getRatio(10, 2))   # Expected output: 5.0
+# print(getRatio(15, 5))   # Expected output: 3.0
+# print(getRatio(7, 0))    # Expected to raise ValueError
 
 
 if __name__ == '__main__':
